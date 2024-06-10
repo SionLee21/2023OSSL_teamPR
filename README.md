@@ -1,2 +1,2 @@
 # 2023OSSL_teamPR
-team practice
+team practice for OS class
